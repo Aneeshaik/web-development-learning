@@ -1,0 +1,21 @@
+.sub-title{
+    font-size: 32px;
+    margin: 10px;
+    color: white;
+    padding: 10px;
+    background-color: brown;
+    position: sticky;
+    top: 50px;
+    z-index: 2;
+}
+
+#azkashine{
+    color: red;
+    font-size: 48px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
